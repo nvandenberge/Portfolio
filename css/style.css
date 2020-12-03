@@ -17,3 +17,7 @@ img {
     border-top: 2px solid lightgray;
     padding-top: 1rem;
 }
+
+.nav-item:hover {
+  text-decoration: underline;
+}
