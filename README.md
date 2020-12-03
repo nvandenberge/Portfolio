@@ -6,13 +6,13 @@ Get to know me and my background as a developer. Users may also use the links in
 
 
 ## Usage
-### About Me
+### About Me page
 ![About Me page](assets/images/AboutMe.png)
 
-### Portfolio
+### Portfolio page
 ![Portfolio page](assets/images/Portfolio.png)
 
-### Contact
+### Contact page
 ![Contact page](assets/images/Contact.png)
 
 ## Technolgies
