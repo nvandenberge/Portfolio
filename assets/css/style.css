@@ -35,4 +35,5 @@ img {
   -webkit-filter: grayscale(0%);
   filter: none;
   transition: 1s ease;
+  box-shadow: 0 0 10px black;
 }
