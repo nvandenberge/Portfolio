@@ -1,4 +1,4 @@
-# Homework02-ResponsivePortfolio
+Portfolio
 This is my first portfolio website that contains some information about me, a list of my development projects, and provides a way to contact me. This website is responsive and mobile ready!
 
 ## Purpose
