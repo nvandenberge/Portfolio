@@ -86,10 +86,10 @@ a > img:hover {
   box-shadow: 0 3px 20px #66fcf1;
 }
 
-.bi-telephone {
-  margin-right: 10px;
+.bi-telephone, .bi-envelope {
+  margin-right: 5px;
 }
 
-.bi-envelope {
-  margin-left: 10px;
+.bi-envelope, .bi-file-arrow-down {
+  margin-left: 5px;
 }
