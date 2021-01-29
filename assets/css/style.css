@@ -71,7 +71,7 @@ a > img:hover {
 .color img {
   filter: grayscale(100%);
   -webkit-filter: grayscale(100%);
-  -webkit-transition: all 1s ease;
+  -webkit-transition: all .3s ease;
   border-radius: 5px;
   border: none;
   width: 100%;
@@ -83,14 +83,40 @@ a > img:hover {
   filter: gray;
   -webkit-filter: grayscale(0%);
   filter: none;
-  transition: 1s ease;
+  transition: .3s ease;
   box-shadow: 0 3px 20px #66fcf1;
 }
 
-.bi-telephone, .bi-envelope {
+/* Feedback for Portfolio buttons */
+.appLinks {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.appLinks > a {
+  border-radius: 5px;
+  color: white;
+  margin: 10px 10px 0 0;
+  border: 1px solid #ffffff;
+}
+
+.appLinks > a:hover {
+  background-color: #66fcf1;
+  border-radius: 5px;
+  margin: 10px 10px 0 0;
+  color: black;
+  box-shadow: 0 3px 5px #ffffff;
+}
+
+/* Spacing icons in footer */
+.bi-telephone,
+.bi-envelope {
   margin-right: 5px;
 }
 
-.bi-envelope, .bi-file-arrow-down {
+.bi-envelope,
+.bi-file-arrow-down {
   margin-left: 5px;
 }
